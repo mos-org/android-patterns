@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why does putExtra have many combination of ways to write it?](https://www.reddit.com/r/androiddev/comments/rogxm7/why_does_putextra_have_many_combination_of_ways/)
-- [Is it good practice to call ViewModel methods from the observer while implementing mvvm?](https://www.reddit.com/r/androiddev/comments/rog6ca/is_it_good_practice_to_call_viewmodel_methods/)
-- [Transfer app to another dev account QUESTIONS](https://www.reddit.com/r/androiddev/comments/roe7vk/transfer_app_to_another_dev_account_questions/)
-- [GitHub - DevsOnFlutter/flutter_shortcuts: Flutter plugin for creating static &amp; dynamic app shortcuts on the home screen.](https://www.reddit.com/r/androiddev/comments/rob7lv/github_devsonflutterflutter_shortcuts_flutter/)
-- [Why do people confuses async await with multithreading and how does it work in different language?](https://www.reddit.com/r/androiddev/comments/roa2uf/why_do_people_confuses_async_await_with/)
-- [looking to get back into android development. haven&#39;t done much the last few years](https://www.reddit.com/r/androiddev/comments/ro7qts/looking_to_get_back_into_android_development/)
-- [Keyboard layouts](https://www.reddit.com/r/androiddev/comments/ro63i9/keyboard_layouts/)
-- [How to get data from multiple activities to main activity in android java?](https://www.reddit.com/r/androiddev/comments/ro4nym/how_to_get_data_from_multiple_activities_to_main/)
-- [Feedback on my Junior Android Interview](https://www.reddit.com/r/androiddev/comments/ro3zzf/feedback_on_my_junior_android_interview/)
-- [ugh am i missing something how do i make edges in designing tap and android emulator smooth ???](https://www.reddit.com/r/androiddev/comments/ro2v4z/ugh_am_i_missing_something_how_do_i_make_edges_in/)
+- [Dear Developers, how do you feel about using Jetpack Compose and Xml at the same time&lpar;Hybrid&rpar;?](https://www.reddit.com/r/androiddev/comments/rpyy32/dear_developers_how_do_you_feel_about_using/)
+- [Country restriction on Google Play](https://www.reddit.com/r/androiddev/comments/rpyri4/country_restriction_on_google_play/)
+- [How do I get an apk build number?](https://www.reddit.com/r/androiddev/comments/rpxqna/how_do_i_get_an_apk_build_number/)
+- [MVVM and one shot operations](https://www.reddit.com/r/androiddev/comments/rpxmzp/mvvm_and_one_shot_operations/)
+- [How to get started with mobile app development for Android?](https://www.reddit.com/r/androiddev/comments/rpuz9y/how_to_get_started_with_mobile_app_development/)
+- [My app shows &quot;similar apps&quot; that are not related to my app category](https://www.reddit.com/r/androiddev/comments/rpuw2z/my_app_shows_similar_apps_that_are_not_related_to/)
+- [Have a LiveData problem and not sure how to tackle it](https://www.reddit.com/r/androiddev/comments/rps6uj/have_a_livedata_problem_and_not_sure_how_to/)
+- [How to display SVG from api?](https://www.reddit.com/r/androiddev/comments/rprzvu/how_to_display_svg_from_api/)
+- [Anybody handling navigation in compose from ViewModel?](https://www.reddit.com/r/androiddev/comments/rprahp/anybody_handling_navigation_in_compose_from/)
+- [Onboarding a new Android Dev](https://www.reddit.com/r/androiddev/comments/rpqu1z/onboarding_a_new_android_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
