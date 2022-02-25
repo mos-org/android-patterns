@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Bumblebee | 2021.1.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/szxc0o/android_studio_bumblebee_202111_patch_2_now/)
-- [Floating Action Button in Fragment](https://www.reddit.com/r/androiddev/comments/szxa4q/floating_action_button_in_fragment/)
-- [Using Forismatic Quote API in an android app?](https://www.reddit.com/r/androiddev/comments/szsqot/using_forismatic_quote_api_in_an_android_app/)
-- [Is it worth using Google Play&#39;s Preregister for a mobile game?](https://www.reddit.com/r/androiddev/comments/szqy65/is_it_worth_using_google_plays_preregister_for_a/)
-- [android algorithms](https://www.reddit.com/r/androiddev/comments/szqsmi/android_algorithms/)
-- [Best Website to find App Developers?](https://www.reddit.com/r/androiddev/comments/szqiga/best_website_to_find_app_developers/)
-- [Android Keystore permanent lock fix?](https://www.reddit.com/r/androiddev/comments/szovtz/android_keystore_permanent_lock_fix/)
-- [Need help to change the button function.](https://www.reddit.com/r/androiddev/comments/szop80/need_help_to_change_the_button_function/)
-- [Help needed, I can&#39;t understand the `contract`way to have result form activity](https://www.reddit.com/r/androiddev/comments/szn4ax/help_needed_i_cant_understand_the_contractway_to/)
-- [How often do you update dependencies?](https://www.reddit.com/r/androiddev/comments/sziyzo/how_often_do_you_update_dependencies/)
+- [Where do I put this Java code? Forismatic Java API](https://www.reddit.com/r/androiddev/comments/t0qs3v/where_do_i_put_this_java_code_forismatic_java_api/)
+- [Gboard Grammar Checking on non-Pixel](https://www.reddit.com/r/androiddev/comments/t0pnck/gboard_grammar_checking_on_nonpixel/)
+- [As JetBrains we condemn the attacks taking place &lpar;JetBrains on Twitter&rpar;](https://www.reddit.com/r/androiddev/comments/t0my0s/as_jetbrains_we_condemn_the_attacks_taking_place/)
+- [Volley or Retrofit2](https://www.reddit.com/r/androiddev/comments/t0kr3t/volley_or_retrofit2/)
+- [What do you write in the &quot;skills&quot; section of your resume, relevant to Android Dev?](https://www.reddit.com/r/androiddev/comments/t0ki74/what_do_you_write_in_the_skills_section_of_your/)
+- [PDF view and drawing](https://www.reddit.com/r/androiddev/comments/t0h2ux/pdf_view_and_drawing/)
+- [Is there easy way to build ffmpeg.aar with windows?](https://www.reddit.com/r/androiddev/comments/t0h1gb/is_there_easy_way_to_build_ffmpegaar_with_windows/)
+- [How to remove listener from button](https://www.reddit.com/r/androiddev/comments/t0ermn/how_to_remove_listener_from_button/)
+- [Notification/Broadcast Receiver!](https://www.reddit.com/r/androiddev/comments/t0c4li/notificationbroadcast_receiver/)
+- [Does anyone know how to verify whether my Firebase Analytics is setup correctly?](https://www.reddit.com/r/androiddev/comments/t06zvn/does_anyone_know_how_to_verify_whether_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
