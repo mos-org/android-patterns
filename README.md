@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Flutter replacing native development](https://www.reddit.com/r/androiddev/comments/ti7frn/flutter_replacing_native_development/)
-- [is there a method to disable chrome to open link in browser?](https://www.reddit.com/r/androiddev/comments/ti4bo2/is_there_a_method_to_disable_chrome_to_open_link/)
-- [MVVM with form input?](https://www.reddit.com/r/androiddev/comments/ti46kf/mvvm_with_form_input/)
-- [I&#39;ve been playing around with coding for a while, codeacademy, etc. I have a full time job and I&#39;m sort of considering concentrating in this area just as a hobby. My question is why pick android over web?](https://www.reddit.com/r/androiddev/comments/ti3fyi/ive_been_playing_around_with_coding_for_a_while/)
-- [How can I know which version of view pager 2 I am using?](https://www.reddit.com/r/androiddev/comments/ti34ul/how_can_i_know_which_version_of_view_pager_2_i_am/)
-- [Any Twitch channels with a focus on android or kotlin worth following?](https://www.reddit.com/r/androiddev/comments/ti015p/any_twitch_channels_with_a_focus_on_android_or/)
-- [Hosting App On Cloud](https://www.reddit.com/r/androiddev/comments/thy7rh/hosting_app_on_cloud/)
-- [SQL Query Builder for Android](https://www.reddit.com/r/androiddev/comments/thy1g3/sql_query_builder_for_android/)
-- [Оfficial &quot;contract&quot; with Google as an Android developer?](https://www.reddit.com/r/androiddev/comments/thxiva/оfficial_contract_with_google_as_an_android/)
-- [How to display a number on the menu bar, e.g. for a measure how long an user do a task?](https://www.reddit.com/r/androiddev/comments/thx76q/how_to_display_a_number_on_the_menu_bar_eg_for_a/)
+- [Can&#39;t get emulator to run on M1 MacBook Pro](https://www.reddit.com/r/androiddev/comments/tix6cj/cant_get_emulator_to_run_on_m1_macbook_pro/)
+- [Why does Android Studio generate two .gitignore files for new projects?](https://www.reddit.com/r/androiddev/comments/tiwy2l/why_does_android_studio_generate_two_gitignore/)
+- [Android 9: Enable ADB over TCP at startup](https://www.reddit.com/r/androiddev/comments/tivihu/android_9_enable_adb_over_tcp_at_startup/)
+- [What does &quot;format&quot; external SD card do beyond the obvious?](https://www.reddit.com/r/androiddev/comments/tiuk3j/what_does_format_external_sd_card_do_beyond_the/)
+- [How to disable adaptive icons option on android 12/one ui 4?](https://www.reddit.com/r/androiddev/comments/tiuh2d/how_to_disable_adaptive_icons_option_on_android/)
+- [Guys, I live in Iran, &amp; while my country was included in the &quot;Registration Page&quot;, now our IDs/ Passports are not accepted by Google and I can&#39;t Verify my ID! Is there any know way to bypass this absurd thing?](https://www.reddit.com/r/androiddev/comments/tit8er/guys_i_live_in_iran_while_my_country_was_included/)
+- [Help with auth0](https://www.reddit.com/r/androiddev/comments/tirxqq/help_with_auth0/)
+- [Any community challenges with code review?](https://www.reddit.com/r/androiddev/comments/tirsjz/any_community_challenges_with_code_review/)
+- [Develop android on linux](https://www.reddit.com/r/androiddev/comments/tilcwv/develop_android_on_linux/)
+- [Is Android Bumblebee stable?](https://www.reddit.com/r/androiddev/comments/tijz54/is_android_bumblebee_stable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
