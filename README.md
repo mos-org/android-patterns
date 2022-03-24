@@ -1,5 +1,6 @@
 # Android Design Patterns
 
+
 <p align="center" style="text-align:center;">
     <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/master/images/banner.png" width="100%" height="60%" alt="Android Design patterns"/>
 </p>
